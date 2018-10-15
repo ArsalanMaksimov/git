@@ -5,7 +5,8 @@
 </head>
 <body>
 <?php 
-	echo "hello arsalan2";
+	echo "hello arsalan2<br>";
+	echo "string";
 ?>
 </body>
 </html>
