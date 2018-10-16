@@ -6,7 +6,8 @@
 <body>
 <?php 
 	echo "hello arsalan2<br>";
-	echo "string";
+	echo "string<br>";
+	echo "2";
 ?>
 </body>
 </html>
